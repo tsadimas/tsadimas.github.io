@@ -67,23 +67,22 @@
       description:
         A platform/app to move shops' front windows ads to peoples' mobile devices
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2015
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - 2nd prize at Hackathon apodeiksi Hackathon against tax evasion.
+    - year: 2014
       items: 
-        - Max Planck Medal
+        - Best Student Paper Award on 2014 IEEE International Systems Conference for the paper "Model-based system engineering using SysML Deriving executable simulation models with QVT"
 
 - title: Academic Interests
   type: nested_list
@@ -92,10 +91,10 @@
       items: 
         - Modeling.
         - Analysis and Design.
-    - title: Topic 2.
+    - title: Modeling and Simulation.
       items:
-        - Description 1.
-        - Description 2.
+        - Information Systems.
+        - Distributed Systems.
 
 - title: Other Interests
   type: list
