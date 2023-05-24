@@ -89,7 +89,7 @@ osf_id: # your OSF ID
 research_gate_profile: Anargyros-Tsadimas # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://tsadimas.dit.people.hua.gr/  # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
@@ -106,7 +106,7 @@ youtube_id: anargyrostsadimas5805 # your youtube channel id (youtube.com/@<youtu
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+   
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

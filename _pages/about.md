@@ -28,4 +28,3 @@ He received his Bsc in Applied Informatics from the University of Macedonia in 2
 Advanced Information Systems from the department of Informatics & Telecommunications of the
 National and Kapodistrian University of Athens in 2005. He has taught lessons like Operation Systems, Distributed Systems, System Analysis and Software Technology at the Department of Informatics & Telematics of Harokopio University. 
 His research interests lie in the areas of Modeling & Simulation of Systems, Distributed Systems and Enterprise Information Systems Engineering. He has 25 publications in international conference proceedings and Journals. He has participated in R&D projects founded by the European Union and the Greek State.
-In his spare time he likes to take photographs, he enjoys going to the cinema or to the theater and he also likes climbing.
