@@ -2,64 +2,70 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Anargyros Tsadimas
     - name: Date of Birth
-      value: 14th March 1879
+      value: 22th October 1979
     - name: Languages
-      value: English, German
+      value: Greek, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Harokopio University, Athens, Greece
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Model-based design of Enterprise Information Systems using SysML"
+    - title: Master of Science
+      institution: National And Kapodistrian University of Athens, Athens, Greece
+      year: 2005
       description:
-        - Description 1.
-        - Description 2.
+        -  Advanced Information Systems
+    - title: Bachelor of Science
+      institution: University of Macedonia, Thessaloniki, Greece
+      year: 2002
+      description:
+        -  Applied Informatics
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Engineer, DevOps, Technology Advisor
+      institution: Norbloc
+      year: 2018 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        Implementation of DRILL software component. DRILL is a distributed data storage system, made from a set of independent modules proposing
+        an innovative approach on storing, managing and keeping data in sync across the participating hosts, as part of the norbloc application platform.
+        Responsible for developing CI / CD pipelines for all Fides services using GitLab, Jenkins and Ansible to generate builds, run tests, create and push
+        docker images on remote registry and deliver on demo / UAT environments • Performed dockerization of Fides services • Deploy, repair
+        and support Kubernetes UAT / production setups • Parametrization, configuration and deployment of Sancus onboarding system demo environment
+ 
+    - title: Teaching Laboratory Staff, Software Engineer, System Administrator
+      institution: Harokopio University, Department of Informatics and Telematics
+      year: 2004 - now
       description:
-        - Description 1.
-        - Description 2.
+        UNIX system Administrator, responsible for the Labs of the department of Informatics & Telematics. Also teaching Operating Systems. Distributed
+        Systems, System Analysis and Software Technology (Postgraduate Level) and Information Systems Design and Development Methods and Tools, Web Information Systems (Postgraduate Level).
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Software Engineer, Team Leader
+      institution: Cityfab
+      year: 2015-2016
       description:
+        CITYFAB was the easiest way to find and book beauty & wellness services
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Software Engineer
+      institution: Xenofone
+      year: 2014 - 2015
+      description:
+        A map and area application with a GIS platform. With xenofone we have collected analysed and digitised all the areas in Greece related to hunting.
+        We have created a mobile app for Android and IOS that provides realtime data and info to the hunting community ensuring knowledge and conformity to law and regulations
+
+    - title: Software Engineer
+      institution: ShoutMyOffer
+      year: 2013 - 2014
+      description:
+        A platform/app to move shops' front windows ads to peoples' mobile devices
 
 - title: Open Source Projects
   type: time_table
@@ -82,10 +88,10 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Information Systems.
       items: 
-        - Description 1.
-        - Description 2.
+        - Modeling.
+        - Analysis and Design.
     - title: Topic 2.
       items:
         - Description 1.
@@ -94,4 +100,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Photography, Climbing.
