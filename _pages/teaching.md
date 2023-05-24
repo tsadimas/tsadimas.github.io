@@ -7,6 +7,5 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Operating Systems:
+    Operating Systems categories, processes and threads, CPU scheduling, interprocess communication - mutexes, deadlocks - techniques for deadlock avoidance and prevention, memory management – virtual memory, paging and page replacement algorithms, filesystems and protection mechanisms, I/O devices management, UNIX operating system case study, Ms Windows operating system case study.
