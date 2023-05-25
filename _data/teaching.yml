@@ -1,18 +1,54 @@
-- title: Education
+- title: Undergraduate
   type: time_table
   contents:
-    - title: PhD
+    - title: Basic DevOps concepts and tools
       institution: Harokopio University, Athens, Greece
-      year: 2018
-      description:
-        - "Model-based design of Enterprise Information Systems using SysML"
-    - title: Master of Science
-      institution: National And Kapodistrian University of Athens, Athens, Greece
-      year: 2005
-      description:
-        -  Advanced Information Systems
-    - title: Bachelor of Science
+      year: Mar 2021 - now
+      description: >
+        The aim of the course is to become familiar with management, automation and monitoring tools for computing units (physical or virtual). Also cloud application management and development.
+        Upon successful completion of the course, the student will be able to manage and automate several software installation/configuration processes as well as the preparation of the infrastructure and services that will support modern information systems.
+        Sections git, automation tools (ansible), containers (docker, docker-compose), CI/CD tools (Jenkins), kubernetes, forward proxies/reverse proxies, application gateways, monitoring tools, microservices.
+ 
+    - title: Operating Systems
+      institution: Harokopio University, Athens, Greece
+      year: Oct 2008 - now
+      description: >
+        Introduction to UNIX, File Management, I/O Redirection, Pipes, Regular Expressions, Process Management, File System Permissions, Environment Variables, Shell Scripting, Programming UNIX Functions in C (System Calls). fork(), wait(), exec(), low-level I/O, pipe(), threads, mutexes, semaphores, networking with sockets
+ 
+    - title: Distributed Systems
       institution: University of Macedonia, Thessaloniki, Greece
-      year: 2002
-      description:
-        -  Applied Informatics
+      year: Oct 2009 - now
+      description: >
+        Using the Java Spring Framework for Information Systems development
+
+    - title: System Analysis and Software Technology
+      institution: University of Macedonia, Thessaloniki, Greece
+      year: Feb 2014 - Jun 2018
+      description: >
+        Software Process (Waterfall Model, Spiral Model, Rational Unified Process). Software Requirements. Software Requirements (user and system). Functional and Non-Functional Requirements. Requirements Discovery (Interviews, Scenario, View-Points, Use Cases). Behavioral Models (Data-flow Models, State-Machine Models). Object Models, Structured Method. Safety-critical systems. Architectural Design. Client-server architecture, layered architecture. Case Tools. Project Planning and Scheduling. Bar Charts and Activity Networks. Safety Critical Systems, requirements (dependability and reliability).
+
+
+- title: Postgraduate
+  type: time_table
+  contents:
+    - title: Information Systems Design and Development Methods
+      institution: Harokopio University, Athens, Greece
+      program: Informatics and Telematics
+      year: Oct 2015 - now
+      description: >
+        The course aims to provide the required theoretical training and practical, laboratory training to the students, so that they are able to deal with the issue of developing a PS with proficiency. Emphasis is placed on the basic principles and processes that must be followed in all development phases: Planning Phase (project plan), Analysis Phase (requirements determination, process and data modeling), Design Phase (architecture, user interface), Implementation Phase (management development, testing, documentation, migration). Emphasis is also placed on object-oriented analysis and design using UML.
+        The course takes a realistic approach to the analysis and design of systems which proceeds as in a real system in order for students to see all the stages of the analysis and design of an Information System and to apply them in practice.
+      
+    - title: Web Information Systems and IoT
+      institution: Harokopio University, Athens, Greece
+      program: Informatics and Telematics
+      year: Feb 2016 - now
+      description: >
+        Developing applications with the logic of microservices (comes with a lab part using fastapi, which is an async web framework in python). User authentication schemes in web applications (OAuth2, JWT) and their integration. Introduction to container concepts. Use of docker (how we create docker images, how we use public repositories such as docker hub but also private ones). Running multiple microservices using docker-compose. Creation of virtual machines in cloud computing infrastructure (example with gcloud/azure cloud, firewall configuration, static ips, ssh, dns configuration, ssl certificates). Introduction to distributed applet execution environments (kubernetes), basic entities (nodes, pods, deployments, services, ingress). Management tools for the kubernetes platform (kubectl, k9s, lens). Using microk8s for deployment of an application based on microservices. Tools for monitoring (prometheus), alerting and logging (elasticsearch-fluentd-kibana). Management of applets (servicemesh, application gateways).
+
+    - title: Management of Network and Computing Resources
+      institution: Harokopio University, Athens, Greece
+      program: Informatics and Telematics
+      year: Oct 2020 - now
+      description: >
+        The architecture of a computing center. Services offered by cloud computing infrastructures. Resource management. The Linux operating system. The bash environment. The Python language. The concept of API. Basic scripting techniques. The concept of automating processes through scripting. Management of servers. Virtualization platforms: Vmware, Ovirt, QEMU, livbirt, etc. Management of virtual machines. The concept and architecture of the cluster. Tactics for managing ideal machines. Networking of ideal machines. Backup policies. Identity management. Setting up an SSH server and security practices. Use of SSH tunnels. Installation and configuration of web servers (apache, nginx, etc.). Installation and configuration of databases, LAMP stack (Linux, Apache, MySQL, PHP) and CMS systems (content management systems). Web proxies and NAT gateways. Networking on linux using IPtables. Installation and configuration of security walls (firewalls). DMZ zones. Installation and configuration of a DNSserver. DNS server security practices. Installation and configuration of a mail server. Techniques to combat spam at the server level and in DNS. Laboratory.
