@@ -75,7 +75,7 @@ github_username: tsadimas # your GitHub user name
 gitlab_username: tsadimas # your GitLab user name
 twitter_username: tsadimas # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: tsadimas # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: 1c6ag1MAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -89,7 +89,7 @@ osf_id: # your OSF ID
 research_gate_profile: Anargyros-Tsadimas # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
-work_url: https://tsadimas.dit.people.hua.gr/  # work page URL
+work_url: https://dit.hua.gr/  # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
@@ -270,8 +270,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags wil
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Tsadimas]
+  first_name: [Anargyros, T.]
 
   style: apa
   locale: en
