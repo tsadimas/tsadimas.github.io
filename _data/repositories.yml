@@ -3,6 +3,7 @@ github_users:
 
 github_repos:
   - tsadimas/ThemaGen
+  - tsadimas/prometheus-grafana-node-exporter-docker
   - tsadimas/fastapi-starter-project
   - tsadimas/ansible-example
   - tsadimas/fastapi-helm-chart
