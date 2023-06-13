@@ -1,18 +1,13 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Distributed Systems
+description: Laboratory of Distributed Systems
+img: assets/img/ds.jpg
 importance: 3
-category: fun
+category: under
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
+Using the Java Spring Framework for Information Systems development
     ---
     layout: page
     title: project

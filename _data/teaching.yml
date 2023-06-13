@@ -4,6 +4,12 @@
     - title: Basic DevOps concepts and tools
       institution: Harokopio University, Athens, Greece
       year: Mar 2021 - now
+      items:
+        - contents: 
+            - name: Intro to UNIX
+              link: https://gitlab.com/atsadimas/operating-systems/-/blob/f4f0f698e3dbfb01c7ca7192376537cebf150aaa/lab1/lab01.pdf
+          title: Notes
+
       description: >
         The aim of the course is to become familiar with management, automation and monitoring tools for computing units (physical or virtual). Also cloud application management and development.
         Upon successful completion of the course, the student will be able to manage and automate several software installation/configuration processes as well as the preparation of the infrastructure and services that will support modern information systems.

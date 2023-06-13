@@ -42,10 +42,10 @@
                 {% for item in content.items %}
                   <li>
                     {% if item.contents %}
-                      <span class="item-title">{{ item.title }}</span>
+                      <span class="item-title font-weight-bold">{{ item.title }}</span>
                       <ul class="subitems">
                       {% for subitem in item.contents %}
-                        <li><span class="subitem">{{ subitem }}</span></li>
+                        <li><span class="subitem">{{subitem.name}} <a href={{subitem.link}}><i class="fa fa-file-pdf"></i></a></span></li>
                       {% endfor %}
                       </ul>
                     {% else %}

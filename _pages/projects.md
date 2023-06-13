@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: courses
+permalink: /courses/
 description: A growing collection of your cool projects.
-nav: false
+nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [msc, applied, under]
 horizontal: false
 ---
 
