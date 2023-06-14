@@ -1,9 +1,9 @@
 - title: Undergraduate
   type: time_table
   contents:
-    - title: Operating Systems
+    - title: Information Systems Design and Development Methods
       institution: Harokopio University, Athens, Greece
-      year: Oct 2008 - now
+      year: Oct 2015 - now
       videos:
       - contents:
           - link: <a href="https://www.youtube.com/watch?v=NsHuRije6OY&list=PLa0dHaxXWeSFHC-7f7WuGD4Nldmlm616g&index=1&ab_channel=AnargyrosTsadimas">Intro JEE, Servlete, JSPs, Eclipse, tomcat <i class="fab fa-youtube"></i></a>
@@ -12,5 +12,9 @@
           - link: <a href="https://www.youtube.com/watch?v=Pz2oTovQBnU&list=PLa0dHaxXWeSFHC-7f7WuGD4Nldmlm616g&index=4&ab_channel=AnargyrosTsadimas">Spring Security <i class="fab fa-youtube"></i></a>
           - link: <a href="https://www.youtube.com/watch?v=GgWunOfJ7kI&list=PLa0dHaxXWeSFHC-7f7WuGD4Nldmlm616g&index=5&ab_channel=AnargyrosTsadimas">Spring Boot <i class="fab fa-youtube"></i></a>
           - link: <a href="https://www.youtube.com/watch?v=mJ3iuiA4dO0&list=PLa0dHaxXWeSFHC-7f7WuGD4Nldmlm616g&index=6&ab_channel=AnargyrosTsadimas">JWT, deployment, CI/CD <i class="fab fa-youtube"></i></a>
-         
+      books:
+      - contents:
+          - book: "Systems analysis and design: An object-oriented approach with UML, 5th Edition by Dennis, Wixom, and Tegarden, Wiley"
+          - book: "Systems Analysis & Design, Dennis, Wixom, Roth, 5th Edition, Wiley"
+          - book: "Software Engineering, Ian Sommerville (10th Edition)"
   

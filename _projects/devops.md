@@ -4,7 +4,7 @@ title: DevOps
 description: Basic DevOps concepts and tools
 img: assets/img/devops.jpg
 importance: 1
-category: under
+category: undergraduate
 ---
 
  The aim of the course is to become familiar with management, automation and monitoring tools for computing units (physical or virtual). Also cloud application management and development.

@@ -2,7 +2,7 @@
 layout: teaching
 permalink: /teaching/
 title: teaching
-nav: true
+nav: false
 nav_order: 5
 ---
 

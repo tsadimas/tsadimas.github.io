@@ -4,7 +4,7 @@ title: Distributed Systems
 description: Laboratory of Distributed Systems
 img: assets/img/ds.jpg
 importance: 3
-category: under
+category: undergraduate
 ---
 
 Using the Java Spring Framework for Information Systems development

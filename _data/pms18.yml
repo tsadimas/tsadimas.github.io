@@ -1,0 +1,11 @@
+- title: Postgraduate
+  type: time_table
+  contents:
+    - title: Advanced Computing Infrastructure Management Techniques
+      institution: Harokopio University, Athens, Greece
+      year: Oct 2020 - now
+      books:
+      - contents:
+          - book: "Riti, P. (2018). Pro DevOps with Google Cloud Platform: With Docker, Jenkins, and Kubernetes. Apress."
+          - book: "Chacon, Scott, and Ben Straub. Pro git. Apress, 2014."
+          - book: "Geerling, Jeff. Ansible for DevOps: Server and configuration management for humans. Leanpub, 2015."

@@ -20,7 +20,21 @@
     {% for item in content.videos %}
     {% for subitem in item.contents %}
     <li>
-        {{subitem.link}}
+   {{subitem.link}}
+    </li>
+    {% endfor %}
+    {% endfor %}
+</ul>
+{% endif %}
+
+
+{% if content.books %}
+<div class="title font-weight-bold ml-1 ml-md-4">Recommended Reading:</div>
+<ul>
+    {% for item in content.books %}
+    {% for subitem in item.contents %}
+    <li>
+        <i class="fa fa-book"></i> {{subitem.book}}
     </li>
     {% endfor %}
     {% endfor %}

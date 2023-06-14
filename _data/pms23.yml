@@ -1,0 +1,12 @@
+- title: Undergraduate
+  type: time_table
+  contents:
+    - title: Operating Systems
+      institution: Harokopio University, Athens, Greece
+      year: Oct 2008 - nowbook
+      books:
+      - contents:
+          - book: "Systems analysis and design: An object-oriented approach with UML, 5th Edition by Dennis, Wixom, and Tegarden, Wiley"
+          - book: "Systems Analysis & Design, Dennis, Wixom, Roth, 5th Edition, Wiley"
+          - book: "Software Engineering, Ian Sommerville (10th Edition)"
+  

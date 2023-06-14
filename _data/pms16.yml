@@ -1,0 +1,10 @@
+- title: Postgraduate
+  type: time_table
+  contents:
+    - title: Management of Network and Computing Resources
+      institution: Harokopio University, Athens, Greece
+      year: Oct 2020 - now
+      books:
+      - contents:
+          - book: "Advanced Programming in the UNIX Environment, 3rd Edition, Author: W. Richard Stevens, Publisher: Addison-Wesley"
+          - book: "UNIX and Linux System Administration Handbook , Author(s): Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley, Dan Mackin, Publisher: Addison-Wesley , Year: 2017"
