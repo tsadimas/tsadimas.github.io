@@ -2,7 +2,7 @@
 layout: page
 title: courses
 permalink: /courses/
-description: A growing collection of your cool projects.
+description: A list of courses.
 nav: true
 nav_order: 2
 display_categories: [undergraduate, postgraduate]
