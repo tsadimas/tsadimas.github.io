@@ -41,5 +41,20 @@
 </ul>
 {% endif %}
 
+
+
+{% if content.git_repos %}
+<div class="title font-weight-bold ml-1 ml-md-4">Git Repositories: </div>
+<ul>
+    {% for item in content.git_repos %}
+    {% for subitem in item.contents %}
+    <li>
+        <i class="fab fa-github-alt"></i> {{subitem.repo}}
+    </li>
+    {% endfor %}
+    {% endfor %}
+</ul>
+{% endif %}
+
 {% endfor%}
 

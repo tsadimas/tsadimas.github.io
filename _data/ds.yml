@@ -17,4 +17,6 @@
           - book: "Systems analysis and design: An object-oriented approach with UML, 5th Edition by Dennis, Wixom, and Tegarden, Wiley"
           - book: "Systems Analysis & Design, Dennis, Wixom, Roth, 5th Edition, Wiley"
           - book: "Software Engineering, Ian Sommerville (10th Edition)"
-  
+      git_repos:
+      - contents:
+          - repo: <a href="https://github.com/tsadimas/spring-demo-2022">Spring Boot starter project with hibernate and spring security</a>

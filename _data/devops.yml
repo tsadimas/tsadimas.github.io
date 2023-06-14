@@ -18,3 +18,15 @@
           - link: <a href="https://www.youtube.com/watch?v=5qwQlnkEpKk&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=10&ab_channel=AnargyrosTsadimas">Kubernetes III / Certificates <i class="fab fa-youtube"></i></a>
           - link: <a href="https://www.youtube.com/watch?v=iv3D9Zk1AYY&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=11&ab_channel=AnargyrosTsadimas">Advanced Kubernetes <i class="fab fa-youtube"></i></a>
           - link: <a href="https://www.youtube.com/watch?v=sahZJxDewTU&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=12&ab_channel=AnargyrosTsadimas">Microservices / Best Practices <i class="fab fa-youtube"></i></a>
+      books:
+      - contents:
+          - book: "Comer, Douglas. The Cloud Computing Book: The Future of Computing Explained. CRC Press, 2021."
+          - book: "Beyer, Betsy, et al. Site Reliability Engineering: How Google Runs Production Systems, O'Reilly Media, Inc., 2016."
+          - book: "Shotts Jr, William E. The Linux command line: A complete introduction. No Starch Press, 2019."
+          - book: "Chacon, Scott, and Ben Straub. Pro git. Apress, 2014."
+          - book: "Geerling, Jeff. Ansible for DevOps: Server and configuration management for humans. Leanpub, 2015."
+          - book: <a href="https://link.springer.com/book/10.1007/978-1-4842-3897-4"> Pro DevOps with Google Cloud Platform</a>
+      git_repos:
+      - contents:
+          - repo: <a href="https://github.com/tsadimas/ansible-example">Ansible sample Project</a>
+          - repo: <a href="https://github.com/tsadimas/django3-sampe-project">Django sample Project with CI/CD and kubernetes resourses</a>
