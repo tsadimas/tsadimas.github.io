@@ -1,0 +1,34 @@
+- title: Undergraduate
+  type: time_table
+  contents:
+    - title: Operating Systems
+      institution: Harokopio University, Athens, Greece
+      year: Oct 2008 - now
+      notes:
+        - contents: 
+              - link: <a href="https://gitlab.com/atsadimas/operating-systems/-/blob/f4f0f698e3dbfb01c7ca7192376537cebf150aaa/lab1/lab01.pdf">Intro to UNIX <i class="fa fa-file-pdf"></i></a>
+              - link: <a href="https://gitlab.com/atsadimas/operating-systems/-/blob/f4f0f698e3dbfb01c7ca7192376537cebf150aaa/lab2/lab02.pdf">Regular Expressions and terminal editors <i class="fa fa-file-pdf"></i></a>
+              - link: <a href="https://gitlab.com/atsadimas/operating-systems/-/blob/f4f0f698e3dbfb01c7ca7192376537cebf150aaa/lab3/lab03.pdf">Redirections-Pipes-Permissions <i class="fa fa-file-pdf"></i></a>
+              - link: <a href="https://gitlab.com/atsadimas/operating-systems/-/blob/f4f0f698e3dbfb01c7ca7192376537cebf150aaa/lab4/lab04.pdf">Variables, Process Management <i class="fa fa-file-pdf"></i></a>
+              - link: <a href="https://gitlab.com/atsadimas/operating-systems/-/blob/f4f0f698e3dbfb01c7ca7192376537cebf150aaa/lab5/lab05.pdf">Shell scripts I <i class="fa fa-file-pdf"></i></a>
+              - link: <a href="https://gitlab.com/atsadimas/operating-systems/-/blob/f4f0f698e3dbfb01c7ca7192376537cebf150aaa/lab6/lab06.pdf">Shell scripts II <i class="fa fa-file-pdf"></i></a>
+              - link: <a href="https://gitlab.com/atsadimas/operating-systems/-/blob/f4f0f698e3dbfb01c7ca7192376537cebf150aaa/lab7/lab07.pdf">Intro to UNIX prgramming <i class="fa fa-file-pdf"></i></a>
+              - link: <a href="https://gitlab.com/atsadimas/operating-systems/-/blob/f4f0f698e3dbfb01c7ca7192376537cebf150aaa/lab8/lab08.pdf">Wait, exec, signal, kill <i class="fa fa-file-pdf"></i></a>
+              - link: <a href="https://gitlab.com/atsadimas/operating-systems/-/blob/f4f0f698e3dbfb01c7ca7192376537cebf150aaa/lab9/lab9.pdf">Threads <i class="fa fa-file-pdf"></i></a>
+              - link: <a href="https://gitlab.com/atsadimas/operating-systems/-/blob/f4f0f698e3dbfb01c7ca7192376537cebf150aaa/lab10/lab10.pdf">Creating pipes <i class="fa fa-file-pdf"></i></a>
+              - link: <a href="https://gitlab.com/atsadimas/operating-systems/-/blob/f4f0f698e3dbfb01c7ca7192376537cebf150aaa/lab11/lab11.pdf">Sockets <i class="fa fa-file-pdf"></i></a>
+      videos:
+      - contents:
+          - link: <a href="https://www.youtube.com/watch?v=A7HYzBCuwAc&list=PLa0dHaxXWeSEsNIeaUMF12H4BGwq49eTo&index=1&pp=gAQBiAQB&ab_channel=AnargyrosTsadimas">Intro to UNIX <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=Z5Pw3jBRgMA&list=PLa0dHaxXWeSEsNIeaUMF12H4BGwq49eTo&index=2&pp=gAQBiAQB&ab_channel=AnargyrosTsadimas">Regular Expressions and terminal editors  <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=ZQwm4eMce0Y&list=PLa0dHaxXWeSEsNIeaUMF12H4BGwq49eTo&index=3&pp=gAQBiAQB&ab_channel=AnargyrosTsadimas">Redirections-Pipes-Permissions  <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=IERwe13JQPY&list=PLa0dHaxXWeSEsNIeaUMF12H4BGwq49eTo&index=5&pp=gAQBiAQB&ab_channel=AnargyrosTsadimas">Variables, Process Management <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=7fBt6gerDh8&list=PLa0dHaxXWeSEsNIeaUMF12H4BGwq49eTo&index=5&pp=gAQBiAQB&ab_channel=AnargyrosTsadimas">Shell scripts I <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=1Yh4r62mwBg&list=PLa0dHaxXWeSEsNIeaUMF12H4BGwq49eTo&index=6&pp=gAQBiAQB&ab_channel=AnargyrosTsadimas">Shell scripts II <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=3tFv8vFS4kY&list=PLa0dHaxXWeSEsNIeaUMF12H4BGwq49eTo&index=7&pp=gAQBiAQB&ab_channel=AnargyrosTsadimas">Intro to UNIX prgramming <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=TJq5WblehRY&list=PLa0dHaxXWeSEsNIeaUMF12H4BGwq49eTo&index=8&pp=gAQBiAQB&ab_channel=AnargyrosTsadimas">Wait, exec, signal, kill <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=aBzV3kWVJgs&list=PLa0dHaxXWeSEsNIeaUMF12H4BGwq49eTo&index=9&pp=gAQBiAQB&ab_channel=AnargyrosTsadimas">Threads <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=suwpaFctNZY&list=PLa0dHaxXWeSEsNIeaUMF12H4BGwq49eTo&index=10&pp=gAQBiAQB&ab_channel=AnargyrosTsadimas">Creating pipes <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=SL4qx2QesHw&list=PLa0dHaxXWeSEsNIeaUMF12H4BGwq49eTo&index=11&pp=gAQBiAQB&ab_channel=AnargyrosTsadimas">Sockets <i class="fab fa-youtube"></i></a>
+
+  

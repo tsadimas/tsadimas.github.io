@@ -1,0 +1,22 @@
+- title: Undergraduate
+  type: time_table
+  contents:
+    - title: Basic DevOps concepts and tools
+      institution: Harokopio University, Athens, Greece
+      year: Mar 2021 - now
+     
+            
+      videos:
+      - contents:
+          - link: <a href="https://www.youtube.com/watch?v=beumTJni0dI&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=1&ab_channel=AnargyrosTsadimas">Git in depth <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=beumTJni0dI&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=2&ab_channel=AnargyrosTsadimas">Git in depth / Intro to Ansible <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=beumTJni0dI&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=3&ab_channel=AnargyrosTsadimas">Django <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=beumTJni0dI&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=4&ab_channel=AnargyrosTsadimas">Ansible and Django <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=beumTJni0dI&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=5&ab_channel=AnargyrosTsadimas">Docker / docker-compose <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=beumTJni0dI&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=6&ab_channel=AnargyrosTsadimas">CI/CD with Jenkins <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=beumTJni0dI&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=7&ab_channel=AnargyrosTsadimas">Jenkins docker integration <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=beumTJni0dI&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=8&ab_channel=AnargyrosTsadimas">Kubernetes I <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=beumTJni0dI&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=9&ab_channel=AnargyrosTsadimas">Kubernetes II / Helm <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=beumTJni0dI&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=10&ab_channel=AnargyrosTsadimas">Kubernetes III / Certificates <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=beumTJni0dI&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=11&ab_channel=AnargyrosTsadimas">Advanced Kubernetes <i class="fab fa-youtube"></i></a>
+          - link: <a href="https://www.youtube.com/watch?v=beumTJni0dI&list=PLa0dHaxXWeSFsH_wB-33L0R1tvVH02Z5-&index=12&ab_channel=AnargyrosTsadimas">Microservices / Best Practices <i class="fab fa-youtube"></i></a>
