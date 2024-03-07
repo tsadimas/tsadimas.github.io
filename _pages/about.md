@@ -6,7 +6,7 @@ subtitle: <a href='https://dit.hua.gr'>Dept of Informatics and Telematics,  Haro
 
 profile:
   align: right
-  image: rg_2024.jpg
+  image: rg_2024.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Office 3.1</p>
