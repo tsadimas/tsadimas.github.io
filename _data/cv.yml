@@ -31,9 +31,23 @@
 - title: Experience
   type: time_table
   contents:
+   
+    - title: Assistant Professor
+      institution: University of West Attica, Department of Informatics and Computer Engineering
+      year: 2024 - now
+      description:
+        Teaching Operating Systems, Distributed Systems, Analysis and Design of Information Systems, Intelligent Systems and Decision Support Systems, and Object Oriented Programming. Active researcher in EU and Greek state-funded R&D projects.
+
+    - title: Teaching Laboratory Staff, Software Engineer, System Administrator
+      institution: Harokopio University, Department of Informatics and Telematics
+      year: 2004 - 2025
+      description:
+        UNIX system Administrator, responsible for the Labs of the department of Informatics & Telematics. Also teaching Operating Systems, Distributed
+        Systems, System Analysis and Software Technology (Postgraduate Level) and Information Systems Design and Development Methods and Tools, Web Information Systems (Postgraduate Level).
+
     - title: Software Engineer, DevOps, Technology Advisor
       institution: Norbloc
-      year: 2018 - now
+      year: 2018 - 2025
       description:
         Implementation of DRILL software component. DRILL is a distributed data storage system, made from a set of independent modules proposing
         an innovative approach on storing, managing and keeping data in sync across the participating hosts, as part of the norbloc application platform.
@@ -41,13 +55,6 @@
         docker images on remote registry and deliver on demo / UAT environments • Performed dockerization of Fides services • Deploy, repair
         and support Kubernetes UAT / production setups • Parametrization, configuration and deployment of Sancus onboarding system demo environment
  
-    - title: Teaching Laboratory Staff, Software Engineer, System Administrator
-      institution: Harokopio University, Department of Informatics and Telematics
-      year: 2004 - now
-      description:
-        UNIX system Administrator, responsible for the Labs of the department of Informatics & Telematics. Also teaching Operating Systems. Distributed
-        Systems, System Analysis and Software Technology (Postgraduate Level) and Information Systems Design and Development Methods and Tools, Web Information Systems (Postgraduate Level).
-
     - title: Software Engineer, Team Leader
       institution: Cityfab
       year: 2015-2016
@@ -87,14 +94,16 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Information Systems.
-      items: 
-        - Modeling.
-        - Analysis and Design.
-    - title: Modeling and Simulation.
+    - title: DevOps Methodologies.
       items:
-        - Information Systems.
-        - Distributed Systems.
+        - Software Development Life Cycle (SDLC) automation.
+        - CI/CD practices.
+    - title: Distributed Systems.
+      items:
+        - Architecture and performance of large-scale distributed infrastructures.
+    - title: Information Systems.
+      items:
+        - Design and development of Enterprise Information Systems.
 
 - title: Other Interests
   type: list
