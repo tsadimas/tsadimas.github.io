@@ -1,0 +1,15 @@
+- title: Postgraduate
+  type: time_table
+  contents:
+    - title: Intelligent Systems and Decision Support Systems
+      institution: Harokopio University, Athens, Greece
+      year: Mar 2025 - now
+      notes:
+      - contents:
+          - link: Data, information, knowledge, wisdom. Information and decision-making.
+          - link: Knowledge-based systems. Knowledge acquisition, representation (rules, frames, cases, uncertainty). Ontologies. Knowledge extraction.
+          - link: Evolutionary algorithms. Genetic algorithms, evolutionary strategies, genetic programming. Operators and applications.
+          - link: Intelligent agents. Agent types and categories. Multi-agent systems, communication, swarm intelligence.
+          - link: Machine learning. Supervised, unsupervised, semi-supervised and reinforcement learning. Deep learning.
+          - link: Learning models. Decision trees, random forests, neural networks, support vector machines.
+          - link: Decision Support Systems. Decision theory, DSS architectures, structured modeling, simulation, OLAP, spatial DSS, group decision systems.

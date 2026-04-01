@@ -7,6 +7,10 @@ importance: 6
 category: undergraduate
 ---
 
-The course introduces intelligent systems and decision support systems, covering techniques for building systems that assist in complex decision-making processes.
-
-Topics include knowledge representation, expert systems, machine learning fundamentals, and decision support architectures.
+<div class="post">
+<article>
+{% for entry in site.data['int-dss'] %}
+ {% include teaching/course.html %}
+{% endfor %}
+</article>
+</div>
